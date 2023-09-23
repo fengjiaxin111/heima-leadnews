@@ -65,6 +65,7 @@ public class AuthorizeFilter implements Ordered, GlobalFilter {
      */
     @Override
     public int getOrder() {
-        return 0;
+        return 0
+                ;
     }
 }
