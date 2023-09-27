@@ -1,0 +1,10 @@
+server:
+  port: 8881 #����˿�
+spring:
+  application:
+    name: freemarker-demo #ָ��������
+  freemarker:
+    cache: false  #�ر�ģ�建�棬�������
+    settings:
+      template_update_delay: 0 #���ģ������ӳ�ʱ�䣬����Ϊ0��ʾ������飬���ʱ�����0���л��治�������ģ�����
+    suffix: .ftl               #ָ��Freemarkerģ���ļ��ĺ�׺��

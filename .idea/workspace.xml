@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca3bcb53-7050-462b-9875-e09745598b2b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/heima-leadnews-test/freemarker-demo/src/main/java/com/heima/freemarkerdemo/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima-leadnews-test/freemarker-demo/src/main/java/com/heima/freemarkerdemo/controller/HelloController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="52ce531ede06a616427baba4592893ce45c34590" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\respository_new" />
+        <option name="mavenHome" value="C:\java_tools\apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="C:\java_tools\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Vpe1sImqocEk6kkfASjcS3aU7X" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.41156068" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\heima-leadnews\heima-leadnews-test" />
+      <recent name="D:\Code\heima-leadnews\heima-leadnews-test\heima-leadnews-article" />
+      <recent name="D:\Code\heima-leadnews" />
+      <recent name="D:\Code\heima-leadnews\heima-leadnews-service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\heima-leadnews" />
+      <recent name="D:\Code\heima-leadnews\heima-leadnews-service" />
+      <recent name="D:\Code\heima-leadnews\heima-leadnews-service\heima-leadnews-article" />
+      <recent name="D:\Code\heima-leadnews\heima-leadnews-test\heima-leadnews-article" />
+      <recent name="D:\Code\heima-leadnews\heima-leadnews-test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.FreemarkerDemotApplication">
+    <configuration name="FreemarkerDemoApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="freemarker-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.freemarkerdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.heima.freemarkerdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.heima.freemarkerdemo.FreemarkerDemoApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="heima-leadnews-app-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.app.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.app.gateway.AppGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArticleApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="heima-leadnews-article" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.article.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.article.ArticleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreemarkerDemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="freemarker-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.freemarkerdemo.FreemarkerDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreemarkerDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="freemarker-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itcast.freemarkerdemo.FreemarkerDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreemarkerDemotApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="freemarker-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.freemarkerdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.freemarkerdemo.FreemarkerDemotApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="heima-leadnews-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.user.UserApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.FreemarkerDemoApplicationTests" />
+      <item itemvalue="Spring Boot.FreemarkerDemoApplication" />
+      <item itemvalue="Spring Boot.FreemarkerDemoApplication (1)" />
+      <item itemvalue="Spring Boot.AppGatewayApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.ArticleApplication (1)" />
+      <item itemvalue="Spring Boot.FreemarkerDemotApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ArticleApplication (1)" />
+        <item itemvalue="Spring Boot.UserApplication" />
+        <item itemvalue="Spring Boot.AppGatewayApplication" />
+        <item itemvalue="Spring Boot.FreemarkerDemotApplication" />
+        <item itemvalue="JUnit.FreemarkerDemoApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca3bcb53-7050-462b-9875-e09745598b2b" name="Default Changelist" comment="" />
+      <created>1695537237627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695537237627</updated>
+      <workItem from="1695537240423" duration="151000" />
+      <workItem from="1695537418461" duration="9282000" />
+      <workItem from="1695562615347" duration="189000" />
+      <workItem from="1695562867743" duration="2017000" />
+      <workItem from="1695566242536" duration="587000" />
+      <workItem from="1695566836467" duration="3248000" />
+      <workItem from="1695630657875" duration="1367000" />
+      <workItem from="1695642181648" duration="1228000" />
+      <workItem from="1695644343650" duration="1133000" />
+      <workItem from="1695645509545" duration="2144000" />
+      <workItem from="1695647697158" duration="2127000" />
+      <workItem from="1695651276822" duration="140000" />
+      <workItem from="1695651423182" duration="695000" />
+      <workItem from="1695652311400" duration="2266000" />
+      <workItem from="1695694510589" duration="1606000" />
+      <workItem from="1695777585772" duration="141000" />
+      <workItem from="1695777750000" duration="101000" />
+      <workItem from="1695777987236" duration="723000" />
+    </task>
+    <task id="LOCAL-00001" summary="Day2-06">
+      <created>1695630833545</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695630833545</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Day2-08">
+      <created>1695651162935</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695651162935</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2023/9/27">
+      <created>1695777632769</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695777632770</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2023/9/27">
+      <created>1695777711193</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695777711193</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day2-06" />
+    <MESSAGE value="Day2-08" />
+    <MESSAGE value="2023/9/27" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/9/27" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Intentions" timestamp="1695538730328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1695538730328" />
+    <state x="440" y="94" key="#Project_Structure" timestamp="1695644840686">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1695644840686" />
+    <state x="221" y="149" width="1186" height="779" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1695653037803">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="221" y="149" width="1186" height="779" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1695653037803" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1695646811107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1695646811107" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1695645932920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1695645932920" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1695650723889">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1695650723889" />
+    <state width="1293" height="268" key="GridCell.Tab.0.bottom" timestamp="1695737735481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1695737735481" />
+    <state width="1293" height="268" key="GridCell.Tab.0.center" timestamp="1695737735481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1695737735481" />
+    <state width="1293" height="268" key="GridCell.Tab.0.left" timestamp="1695737735481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1695737735481" />
+    <state width="1293" height="268" key="GridCell.Tab.0.right" timestamp="1695737735481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1695737735481" />
+    <state width="1293" height="268" key="GridCell.Tab.1.bottom" timestamp="1695737735481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="268" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1695737735481" />
+    <state width="1293" height="268" key="GridCell.Tab.1.center" timestamp="1695737735481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="268" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1695737735481" />
+    <state width="1293" height="268" key="GridCell.Tab.1.left" timestamp="1695737735481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="268" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1695737735481" />
+    <state width="1293" height="268" key="GridCell.Tab.1.right" timestamp="1695737735481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="268" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1695737735481" />
+    <state x="-567" y="512" width="1920" height="320" key="GridCell.Tab.2.bottom" timestamp="1695648461627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-567" y="512" width="1920" height="320" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1695648461627" />
+    <state x="-567" y="512" width="1920" height="320" key="GridCell.Tab.2.center" timestamp="1695648461627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-567" y="512" width="1920" height="320" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1695648461627" />
+    <state x="-567" y="512" width="1920" height="320" key="GridCell.Tab.2.left" timestamp="1695651255433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-567" y="512" width="1920" height="320" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1695651255433" />
+    <state x="-567" y="512" width="1920" height="320" key="GridCell.Tab.2.right" timestamp="1695648461627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-567" y="512" width="1920" height="320" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1695648461627" />
+    <state x="-567" y="512" width="1920" height="320" key="GridCell.Tab.3.bottom" timestamp="1695648461600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-567" y="512" width="1920" height="320" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1695648461600" />
+    <state x="-567" y="512" width="1920" height="320" key="GridCell.Tab.3.center" timestamp="1695648461600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-567" y="512" width="1920" height="320" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1695648461600" />
+    <state x="-567" y="512" width="1920" height="320" key="GridCell.Tab.3.left" timestamp="1695648461600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-567" y="512" width="1920" height="320" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1695648461600" />
+    <state x="-567" y="512" width="1920" height="320" key="GridCell.Tab.3.right" timestamp="1695648461600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-567" y="512" width="1920" height="320" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1695648461600" />
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1695561466328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1695561466328" />
+    <state x="184" y="85" key="MergeDialog" timestamp="1695645957643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="85" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1695645957643" />
+    <state x="621" y="293" width="749" height="594" key="NewModule_or_Project.wizard" timestamp="1695566409745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="621" y="293" width="749" height="594" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1695566409745" />
+    <state x="317" y="122" key="SettingsEditor" timestamp="1695653460599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="317" y="122" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1695653460599" />
+    <state x="599" y="286" key="SpringBootCustomization" timestamp="1695567164660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="599" y="286" key="SpringBootCustomization/0.0.1920.1040@0.0.1920.1040" timestamp="1695567164660" />
+    <state x="806" y="432" key="VCS.ChangelistChooser" timestamp="1695644618693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="806" y="432" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1695644618693" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1695778093955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1695778093955" />
+    <state x="-405" y="493" width="1936" height="388" key="dock-window-1" timestamp="1695648409755">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-405" y="493" width="1936" height="388" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1695648409755" />
+    <state x="0" y="212" width="1936" height="388" key="dock-window-2" timestamp="1695648409755">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="212" width="1936" height="388" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1695648409755" />
+    <state x="-564" y="342" width="1936" height="388" key="dock-window-3" timestamp="1695648409755">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-564" y="342" width="1936" height="388" key="dock-window-3/0.0.1920.1040@0.0.1920.1040" timestamp="1695648409755" />
+    <state x="-567" y="512" width="1936" height="388" key="dock-window-4" timestamp="1695650676727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-567" y="512" width="1936" height="388" key="dock-window-4/0.0.1920.1040@0.0.1920.1040" timestamp="1695650676727" />
+    <state x="708" y="231" key="git4idea.branch.GitSmartOperationDialog" timestamp="1695645934215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="708" y="231" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1695645934215" />
+    <state x="374" y="198" width="1251" height="662" key="new project wizard" timestamp="1695652379905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="374" y="198" width="1251" height="662" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1695652379905" />
+    <state x="655" y="275" key="refactoring.ChangeSignatureDialog" timestamp="1695646744875">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="275" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1695646744875" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1695650826034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1695650826034" />
+    <state x="661" y="272" key="spring file set editor" timestamp="1695565825604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="272" key="spring file set editor/0.0.1920.1040@0.0.1920.1040" timestamp="1695565825604" />
+  </component>
+</project>

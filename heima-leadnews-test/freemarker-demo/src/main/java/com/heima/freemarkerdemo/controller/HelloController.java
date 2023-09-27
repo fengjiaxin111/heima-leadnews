@@ -1,6 +1,7 @@
 package com.heima.freemarkerdemo.controller;
 
 
+import com.heima.freemarkerdemo.entity.Student;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
